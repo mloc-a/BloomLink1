@@ -2,13 +2,13 @@
 ![image](https://github.com/user-attachments/assets/71640548-e35a-460e-8558-078f65573c0b)
 
 
-### This are C# scripts developed with AI to implement feedback mechanisms
+### These are C# scripts developed with AI to implement feedback mechanisms
 
 - [Powder Bottle Effect](https://github.com/mloc-a/BloomLink1/blob/main/powdereffect.cs) - script that triggers powder emission and sound from the fertilizer bottle when it is tilted beyond a specified angle (with adjustable threshold).
 - [Watercan Effect](https://github.com/mloc-a/BloomLink1/blob/main/watereffect.cs) - Script that triggers water emission and sound from the watering can when it is tilted beyond a specified angle (with adjustable threshold).
 
 
-### This are C# scripts develop with AI to built the task trigger-responses 
+### These are C# scripts develop with AI to built the task trigger-responses 
 - [Initial Audio](https://github.com/mloc-a/BloomLink1/blob/main/audioinicial.cs) - Script that triggers the inicial audio after a few seconds of the participants entering Bloomlink
 - [Soil disabled ](https://github.com/mloc-a/BloomLink1/blob/main/showhidecoversoil.cs) - Script to hide the soil (triggered during Action B) and to initiate the audio cue for Action A of the Seed Cultivation task 
 - [Place seed in soil](https://github.com/mloc-a/BloomLink1/blob/main/plantseed1.cs) - Script to trigger the audio cue for Action B when the seed is placed in the pot.
