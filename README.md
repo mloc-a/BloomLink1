@@ -16,6 +16,6 @@
 - [Water soil](https://github.com/mloc-a/BloomLink1/blob/main/watertrigger.cs) - Script to darken the soil’s color and trigger the audio cue for Action D when the hidden collider inside the watering can makes contact with the soil.
 - [Fertilize soil ](https://github.com/mloc-a/BloomLink1/blob/main/plantgrow.cs) - Script to make the plant emerge and play the final audio cue of the task when the hidden collider inside the fertilizer bottle touches the soil.
 
-### Task system response
+### Task trigger-response system 
 ![image](https://github.com/user-attachments/assets/2fbf2dc3-a90f-442c-8a26-bbb2fcf2033b)
 
